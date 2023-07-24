@@ -1,5 +1,13 @@
 # @wagmi/chains
 
+## 1.6.1
+
+### Patch Changes
+
+- 414ff36: Added Linea chain.
+- baf3143: Updated SKALE Network Chains with WebSocket RPC URLs and Multicall addresses.
+- 0ea344c: Removed "Testnet" on mantle mainnet explorer name.
+
 ## 1.6.0
 
 ### Minor Changes

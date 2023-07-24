@@ -1,5 +1,16 @@
 # @wagmi/connectors
 
+## 2.6.7
+
+### Patch Changes
+
+- 131a337: Added Desig Wallet name mapping.
+- e089d7d: Added Fordefi Wallet name mapping.
+- Updated dependencies [414ff36]
+- Updated dependencies [baf3143]
+- Updated dependencies [0ea344c]
+  - @wagmi/chains@1.6.1
+
 ## 2.6.6
 
 ### Patch Changes
